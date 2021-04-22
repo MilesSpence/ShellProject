@@ -1,5 +1,5 @@
 # ShellProject
-Created my own shell program with the following features:
+## Created my own shell program with the following features:
 ❏ Basic reading of a command line and breaking into its parts
 ❏ cd and pwd commands
 ❏ fork() and exec() of command that are programs such as % cat file.txt
